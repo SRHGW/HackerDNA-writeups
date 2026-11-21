@@ -87,3 +87,9 @@ Mesures complémentaires :
 - Les filtres par liste noire sont contournables ; le paramétrage est indispensable [citation:2].
 
 ---
+
+---
+
+## Ressource complémentaire
+
+🎓 [HackerDNA — plateforme d'apprentissage en cybersécurité](https://hackerdna.com/?ref=guanlin)
