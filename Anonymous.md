@@ -104,3 +104,9 @@ Ce lab illustre une mauvaise configuration classique :
 4. Préférer SFTP / FTPS avec authentification forte.
 
 Les noms des défis et toute propriété intellectuelle de tiers restent la propriété de leurs détenteurs respectifs.
+
+---
+
+## Ressource complémentaire
+
+🎓 [HackerDNA — plateforme d'apprentissage en cybersécurité](https://hackerdna.com/?ref=guanlin)
