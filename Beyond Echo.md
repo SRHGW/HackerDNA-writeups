@@ -57,3 +57,9 @@ Ce lab illustre une injection de commande classique dans une application PHP. L'
 5. Toujours encoder les entrées utilisateur (URL-encodage) lors des tests d'injection.
 
 Les noms des défis et toute propriété intellectuelle de tiers restent la propriété de leurs détenteurs respectifs.
+
+---
+
+## Ressource complémentaire
+
+🎓 [HackerDNA — plateforme d'apprentissage en cybersécurité](https://hackerdna.com/?ref=guanlin)
