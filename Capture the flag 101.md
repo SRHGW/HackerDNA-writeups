@@ -67,3 +67,9 @@ En cybersécurité :
 - La lecture attentive des boutons et des sections d'une page évite de chercher une vulnérabilité complexe là où il n'y en a pas.
 
 Les noms des défis et toute propriété intellectuelle de tiers restent la propriété de leurs détenteurs respectifs.
+
+---
+
+## Ressource complémentaire
+
+🎓 [HackerDNA — plateforme d'apprentissage en cybersécurité](https://hackerdna.com/?ref=guanlin)
