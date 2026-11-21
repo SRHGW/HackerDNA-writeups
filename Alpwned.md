@@ -94,3 +94,9 @@ Ce lab illustre une chaîne d'exploitation multi-étapes : une injection SQL dan
 5. La vérification d'hôte du debugger (Host: localhost) est trivialement contournable avec un en-tête HTTP.
 
 Les noms des défis et toute propriété intellectuelle de tiers restent la propriété de leurs détenteurs respectifs.
+
+---
+
+## Ressource complémentaire
+
+🎓 [HackerDNA — plateforme d'apprentissage en cybersécurité](https://hackerdna.com/?ref=guanlin)
